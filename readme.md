@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 python3 parser.py город ижевск izhevsk_result.csv
 ```
 
-```bash                                
+```text
 target_type = город
 target_place = ижевск
 output_path = izhevsk_result.csv
@@ -31,7 +31,7 @@ n_parallel = 10
 python3 parser.py регион архангельск arkhangelsk_dist_result.csv
 ```
 
-```bash
+```text
 target_type = регион
 target_place = архангельск
 output_path = arkhangelsk_dist_result.csv
@@ -47,7 +47,7 @@ n_parallel = 10
 python3 parser.py all all result.csv
 ```
 
-```bash
+```text
 target_type = all
 target_place = all
 output_path = result.csv
