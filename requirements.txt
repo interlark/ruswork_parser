@@ -1,0 +1,6 @@
+tqdm
+bs4
+pyfiglet
+requests
+aiohttp
+asyncio
