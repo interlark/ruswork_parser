@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 
-# Author: interlark@gmail.com
-# Description: Parser for advertisments on https://rus-work.com
-# Disclaimer: For education purpose only
-
 # Usage:
 # parser.py город Пенза results_penza_city.csv
 # parser.py регион Архангельск results_arckhangelsk_dist.csv
