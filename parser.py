@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
-# Author: interlark@gmail.com
 # Description: Parser for advertisments on https://rus-work.com
-# Disclaimer: For education purpose only
 # Version: 1.0.5
 
 # Usage:
